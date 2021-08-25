@@ -1,8 +1,8 @@
 ## Adafruit SCD-4x CO2, Temperature and Humidity Sensor PCB
 
-<a href="http://www.adafruit.com/products/5190"><img src="assets/5190.jpg?raw=true" width="500px"><br/>
-<a href="http://www.adafruit.com/products/5187"><img src="assets/5187.jpg?raw=true" width="500px"><br/>
-Click here to purchase one from the Adafruit shop</a>
+<a href="http://www.adafruit.com/products/5190"><img src="assets/5190.jpg?raw=true" width="500px"></a><br/>
+<a href="http://www.adafruit.com/products/5187"><img src="assets/5187.jpg?raw=true" width="500px"></a><br/>
+Click above to purchase one from the Adafruit shop!
 
 PCB files for the Adafruit SCD-4x CO2, Temperature and Humidity Sensor. 
 
